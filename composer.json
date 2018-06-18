@@ -1,0 +1,11 @@
+{
+  "name": "kchlistala/php-iso-countries",
+  "autoload": {
+    "psr-4": {
+      "IsoCountries\\": "src/"
+    }
+  },
+  "require": {
+    "symfony/yaml": "^4.1"
+  }
+}
